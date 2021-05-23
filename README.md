@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To use node-sass with this project
+
+yarn add node-sass@4.14.1
+npm install node-sass@4.14.1
+
+Uninstall any node-sass package initially installed
+
 ## Available Scripts
 
 In the project directory, you can run:
